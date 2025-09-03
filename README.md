@@ -22,7 +22,7 @@ It uses **MQTT** for real-time telemetry, stores readings in **SQLite**, calcula
   Runs directly in Google Colab with auto-installation of dependencies.
 
 ---
-
+-
 ## 🛠 Requirements
 - Python 3.8+
 - Internet connection (for MQTT broker)
